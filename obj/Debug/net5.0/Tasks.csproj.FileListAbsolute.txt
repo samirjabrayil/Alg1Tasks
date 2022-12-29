@@ -1,0 +1,16 @@
+C:\Users\samirej\source\repos\Tasks\Tasks\obj\Debug\net5.0\Tasks.csproj.AssemblyReference.cache
+C:\Users\samirej\source\repos\Tasks\Tasks\obj\Debug\net5.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samirej\source\repos\Tasks\Tasks\obj\Debug\net5.0\Tasks.AssemblyInfoInputs.cache
+C:\Users\samirej\source\repos\Tasks\Tasks\obj\Debug\net5.0\Tasks.AssemblyInfo.cs
+C:\Users\samirej\source\repos\Tasks\Tasks\obj\Debug\net5.0\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\samirej\source\repos\Tasks\Tasks\bin\Debug\net5.0\Tasks.exe
+C:\Users\samirej\source\repos\Tasks\Tasks\bin\Debug\net5.0\Tasks.deps.json
+C:\Users\samirej\source\repos\Tasks\Tasks\bin\Debug\net5.0\Tasks.runtimeconfig.json
+C:\Users\samirej\source\repos\Tasks\Tasks\bin\Debug\net5.0\Tasks.runtimeconfig.dev.json
+C:\Users\samirej\source\repos\Tasks\Tasks\bin\Debug\net5.0\Tasks.dll
+C:\Users\samirej\source\repos\Tasks\Tasks\bin\Debug\net5.0\ref\Tasks.dll
+C:\Users\samirej\source\repos\Tasks\Tasks\bin\Debug\net5.0\Tasks.pdb
+C:\Users\samirej\source\repos\Tasks\Tasks\obj\Debug\net5.0\Tasks.dll
+C:\Users\samirej\source\repos\Tasks\Tasks\obj\Debug\net5.0\ref\Tasks.dll
+C:\Users\samirej\source\repos\Tasks\Tasks\obj\Debug\net5.0\Tasks.pdb
+C:\Users\samirej\source\repos\Tasks\Tasks\obj\Debug\net5.0\Tasks.genruntimeconfig.cache
